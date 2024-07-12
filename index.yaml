@@ -9,6 +9,6 @@ entries:
     name: helm-yarl
     type: application
     urls:
-    - https://itc-cloud-soft.github.io/yaml-helm/helm-yarl-0.1.0.tgz
+    - https://itc-cloud-soft.github.io/yaml-helm-open/helm-yarl-0.1.0.tgz
     version: 0.1.0
 generated: "2024-03-28T14:50:58.723654+09:00"
