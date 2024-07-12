@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-yarl:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-28T14:50:58.724484+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 203461ead56143f70933dfa477757648f9100f729e8e5040081caa2b03e05519
+    name: helm-yarl
+    type: application
+    urls:
+    - https://itc-cloud-soft.github.io/yaml-helm/helm-yarl-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-28T14:50:58.723654+09:00"
